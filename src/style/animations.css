@@ -1,0 +1,15 @@
+@-webkit-keyframes modal-opened {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0.3);
+            transform: scale(0.3);
+  }
+}
+@keyframes modal-opened {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0.3);
+            transform: scale(0.3);
+  }
+}
+/*# sourceMappingURL=animations.css.map */

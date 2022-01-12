@@ -1,0 +1,289 @@
+[
+    {
+        "name": "A",
+        "exercises": [
+            {
+                "id": 0,
+                "name": "Riscaldamento tappeto",
+                "time": "10'",
+                "img": "../images/sport.png"
+            },
+            {
+                "id": 1,
+                "name": "Top spin",
+                "time": "5'",
+                "img": "../images/sport.png"
+            },
+            {
+                "id": 2,
+                "name": "Addominali sit ups",
+                "time": "4x15",
+                "img": "../images/abs.png"
+            },
+            {
+                "id": 3,
+                "name": "Addominali panca",
+                "time": "4x15",
+                "img": "../images/abs.png"
+            },
+            {
+                "id": 4,
+                "name": "Panca piana",
+                "time": "4x10",
+                "img": "../images/gym.png",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 5,
+                "name": "Panca 30° manubri",
+                "time": "4x8",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 6,
+                "name": "Pulley",
+                "time": "4x10",
+                "img": "../images/biceps.png",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 7,
+                "name": "Rematore manubri",
+                "time": "4x8",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 8,
+                "name": "Shoulder press",
+                "time": "4x10",
+                "img": "../images/shoulder.png",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 9,
+                "name": "Curl bilanciere",
+                "time": "4x8",
+                "img": "../images/barbell.png",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 10,
+                "name": "French press",
+                "time": "4x10",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 11,
+                "name": "Defaticamento ellittica",
+                "time": "10'",
+                "img": "../images/elliptical.png"
+            }
+        ]
+    },
+    {
+        "name": "B",
+        "exercises": [
+            {
+                "id": 12,
+                "name": "Riscaldamento ellittica",
+                "time": "10'",
+                "img": "../images/elliptical.png"
+            },
+            {
+                "id": 13,
+                "name": "Plank",
+                "time": "4x30''",
+                "img": "../images/plank.png"
+            },
+            {
+                "id": 14,
+                "name": "Plank braccia tese",
+                "time": "4x40''",
+                "img": "../images/plank.png"
+            },
+            {
+                "id": 15,
+                "name": "Superman",
+                "time": "4x1'",
+                "img": "../images/superhero.png"
+            },
+            {
+                "id": 16,
+                "name": "Squat",
+                "time": "4x10",
+                "img": "../images/squats.png"
+            },
+            {
+                "id": 17,
+                "name": "Affondi",
+                "time": "4x8",
+                "img": "../images/leg.png"
+            },
+            {
+                "id": 18,
+                "name": "Leg curl",
+                "time": "4x8",
+                "img": "../images/leg.png",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 19,
+                "name": "Leg extension",
+                "time": "4x8",
+                "img": "../images/leg.png",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 20,
+                "name": "Calf raise pressa",
+                "time": "4x20",
+                "img": "../images/leg.png",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 21,
+                "name": "Defaticamento bike",
+                "time": "10'",
+                "img": "../images/bicycle.png"
+            }
+        ]
+    },
+    {
+        "name": "C",
+        "exercises": [
+            {
+                "id": 22,
+                "name": "Riscaldamento tappeto",
+                "time": "10'",
+                "img": "../images/sport.png"
+            },
+            {
+                "id": 23,
+                "name": "Top spin",
+                "time": "5'",
+                "img": "../images/sport.png"
+            },
+            {
+                "id": 24,
+                "name": "Addominali",
+                "time": "1x15",
+                "img": "../images/abs.png"
+            },
+            {
+                "id": 25,
+                "name": "Chest press",
+                "time": "1x15'",
+                "img": "../images/chest-machine.png",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 26,
+                "name": "Lat machine",
+                "time": "1x15",
+                "img": "../images/lat-machine.png",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 27,
+                "name": "Lombari",
+                "time": "1x15",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 28,
+                "name": "Spalle",
+                "time": "1x15",
+                "img": "../images/shoulder.png",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 29,
+                "name": "Leg extension",
+                "time": "1x30",
+                "img": "../images/leg.png",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 30,
+                "name": "Bicipiti",
+                "time": "1x15",
+                "img": "../images/biceps.png",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 31,
+                "name": "Addominali",
+                "time": "1x15",
+                "img": "../images/abs.png",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 32,
+                "name": "Tricipiti",
+                "time": "1x15",
+                "img": "../images/biceps.png",
+                "edit": {
+                    "status": false,
+                    "content": ""
+                }
+            },
+            {
+                "id": 33,
+                "name": "Recupero attivo bike",
+                "time": "10'",
+                "img": "../images/bicycle.png"
+            }
+        ]
+    }
+]

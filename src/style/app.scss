@@ -1,0 +1,37 @@
+@import "global";
+@import "variables";
+@import "scheda";
+@import "exercise";
+@import "modal";
+@import "animations";
+
+.body-wrapper {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.page-title {
+    color: $my-blue;
+    margin: 0;
+}
+
+.training {
+    margin-top: 20px;
+    background-color: white;
+    padding: 10px;
+    .text-selection {
+        color: $my-grey;
+        font-size: 18px;
+        padding-right: 10px;
+    }
+    select {
+        border-radius: 10px;
+        width: fit-content;
+        height: 30px;
+        font-weight: bold;
+        cursor: pointer;
+        border: none;
+        background-color: $bright-sky;
+    }
+}
