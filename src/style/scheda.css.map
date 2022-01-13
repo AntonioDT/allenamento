@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,iBAAiB,CAAC;EACd,gBAAgB,EAAE,KAAK;EACvB,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,KAAK;EACjB,UAAU,EAAE,IAAI;CAMnB;;AAVD,AAKI,iBALa,CAKb,EAAE,CAAC;EACC,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,IAAI;CACnB",
-    "sources": [
-        "scheda.scss"
-    ],
-    "names": [],
-    "file": "scheda.css"
-}

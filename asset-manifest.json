@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/allenamento/static/css/main.1ce94a64.css",
+    "main.js": "/allenamento/static/js/main.2c28b58e.js",
+    "static/media/close.png": "/allenamento/static/media/close.7641cdf275821c738e5f.png",
+    "static/media/save.png": "/allenamento/static/media/save.909b33df1c55f3b43f12.png",
+    "static/media/clock.png": "/allenamento/static/media/clock.e2cc8db02731917b3fd7.png",
+    "static/media/check.png": "/allenamento/static/media/check.2b1900cafb08d36389c5.png",
+    "static/media/pencil.png": "/allenamento/static/media/pencil.77cd5b567e0fdd70ac48.png",
+    "static/media/dumbbell.png": "/allenamento/static/media/dumbbell.9440f644931664319e35.png",
+    "index.html": "/allenamento/index.html",
+    "main.1ce94a64.css.map": "/allenamento/static/css/main.1ce94a64.css.map",
+    "main.2c28b58e.js.map": "/allenamento/static/js/main.2c28b58e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ce94a64.css",
+    "static/js/main.2c28b58e.js"
+  ]
+}
